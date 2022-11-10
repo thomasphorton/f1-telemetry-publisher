@@ -1,0 +1,5 @@
+const auth = {
+    ablyKey: 'ably_auth_key'
+}
+
+export default auth;

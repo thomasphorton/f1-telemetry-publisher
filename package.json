@@ -1,0 +1,17 @@
+{
+  "name": "f1-telemetry-publisher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "ably": "^1.2.30",
+    "f1-22-udp": "^2.1.1",
+    "udp-packet": "^2.0.0"
+  }
+}
